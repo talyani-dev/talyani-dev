@@ -3,7 +3,7 @@ This DDoS Is By Team Oc
 
 usage :
 
-git clone https://github.com/dev-talyani/Dev-talyani-Tools
+git clone https://github.com/talyani-dev/talyani-dev.git
 
 cd Dev-talyani-Tools
 
